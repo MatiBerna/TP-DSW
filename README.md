@@ -3,6 +3,7 @@
 ## Grupo
 ### Integrantes
 * 48777 - Bernardi, Matias
+* 49810 - Gaggiotti, Gabriele
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
