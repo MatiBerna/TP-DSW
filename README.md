@@ -40,7 +40,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Lugar<br>2. CRUD Espectaculo<br>3. CRUD Artista<br>4. CRUD Persona<br>5. CRUD Evento<br>6. CRUD Recurso<br>7. CRUD Tipo_competencia<br>8. CRUD Jurado<br>9. CRUD Valor_diario|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CUU/Epic|1. Programación de eventos<br>2. Gestión de recursos para el evento
 
 
 ### Alcance Adicional Voluntario
