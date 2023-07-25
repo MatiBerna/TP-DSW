@@ -31,7 +31,7 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Persona<br>2. CRUD Evento<br>3. CRUD Competencia<br>4. CRUD Participante|
 |CRUD dependiente|1. CRUD Espectaculo {depende de} CRUD Evento<br>2. CRUD Valor_diario {depende de} CRUD Recurso|
-|Listado<br>+<br>detalle| 1. Listado de participantes filtrado por competencia, muestra nombre del participante y el puesto del mismo => detalle CRUD Participante<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente(CAMBIAR POR UNO DE NUESTRO SISTEMA)| 
+|Listado<br>+<br>detalle| 1. Listado de participantes filtrado por competencia, muestra nombre del participante y el puesto del mismo => detalle CRUD Participante<br> 2. Listado de competencias para un evento especifico => detalle CRUD evento| 
 |CUU/Epic|1. Registrar participación de una persona en una competencia<br>2. Registrar un espectaculo para un determinado evento|
 
 
