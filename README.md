@@ -18,7 +18,7 @@ Sistema de gestión de eventos organizados desde la comuna "nombre". Los mismos 
 Manejaremos dos tipos de usuarios: Una persona que podrá registrarse para participar de una competencia, y persona administrativa que organice y registre los eventos a realizar.
 
 ### Modelo
-![image](https://github.com/MatiBerna/TP-DSW/assets/128424988/e2f43240-98a2-420c-8bd5-854814e43c42)
+![TP DSW](https://github.com/MatiBerna/TP-DSW/assets/128424988/00128af9-d975-492e-803c-ae9f31b9cba5)
 
 
 ## Alcance Funcional 
