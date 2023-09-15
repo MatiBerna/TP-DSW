@@ -13,9 +13,9 @@
 ## Tema
 ### Descripción
 
-Sistema de gestión de eventos organizados desde la comuna "nombre". Los mismos son organizados para feriados y celebraciones (como día del niño, dia de la madre, dia del padre, etc). Los eventos pueden extenderse en varios días y dentro de los mismos pueden llevarse a cabo espectaculos en vivo y/o competencias. 
+Sistema de gestión de eventos organizados desde la comuna "nombre". Los mismos son organizados para feriados y celebraciones (como día del niño, dia de la madre, dia del padre, etc). Los eventos pueden extenderse en varios días y dentro de los mismos pueden llevarse a cabo competencias. 
 
-Manejaremos dos tipos de usuarios: Una persona que podrá registrarse para participar de una competencia, y persona administrativa que organice y registre los eventos a realizar.
+Manejaremos dos tipos de usuarios: Una persona que podrá registrarse para participar de una competencia o postularse como jurado, y persona administrativa que organice y registre los eventos a realizar.
 
 ### Modelo
 ![TP DSW](https://github.com/MatiBerna/TP-DSW/assets/128424988/00128af9-d975-492e-803c-ae9f31b9cba5)
