@@ -29,8 +29,8 @@ Manejaremos dos tipos de usuarios: Una persona que podrá registrarse para parti
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Persona<br>2. CRUD Evento<br>3. CRUD Competencia<br>4. CRUD Participante|
-|CRUD dependiente|1. CRUD Competencia {depende de} CRUD Evento y TipoCompetencia<br>2. CRUD Participante {depende de} CRUD Competencia|
+|CRUD simple|1. CRUD Persona<br>2. CRUD Evento<br>3. CRUD Tipo Competencia<br>4. CRUD Participante|
+|CRUD dependiente|1. CRUD Competencia {depende de} CRUD Evento y TipoCompetencia|
 |Listado<br>+<br>detalle| 1. Listado de participantes filtrado por competencia, muestra nombre del participante y el puesto del mismo => detalle CRUD Participante<br> 2. Listado de competencias para un evento especifico => detalle CRUD evento| 
 |CUU/Epic|1. Registrar participación de una persona en una competencia<br>2. Registrar jurado de una competencia|
 
@@ -38,7 +38,7 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |<br>1. CRUD Persona<br>2. CRUD Evento<br><br>3. CRUD Tipo_competencia<br>4. CRUD Jurado<br>|
+|CRUD |<br>1. CRUD Persona<br>2. CRUD Evento<br><br>3. CRUD Tipo_competencia<br>4. CRUD Jurado<br> CRUD Participante {depende de} CRUD Competencia|
 |CUU/Epic|1. Programación de eventos<br>
 
 
