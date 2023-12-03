@@ -38,7 +38,7 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |<br>1. CRUD Persona<br>2. CRUD Evento<br><br>3. CRUD Tipo_competencia<br>4. CRUD Jurado<br> CRUD Participante {depende de} CRUD Competencia|
+|CRUD <br>4. CRUD Jurado<br> CRUD Participante {depende de} CRUD Competencia y CRUD persona|
 |CUU/Epic|1. Programación de eventos<br>
 
 
