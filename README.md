@@ -6,7 +6,7 @@
 * 49810 - Gaggiotti, Gabriele
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app](https://github.com/MatiBerna/frontend-comuna)
 * [backend app](https://github.com/MatiBerna/comuna-backend)
 
 
