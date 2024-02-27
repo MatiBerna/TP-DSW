@@ -13,7 +13,7 @@
 ## Tema
 ### Descripción
 
-Sistema de gestión de eventos organizados desde la comuna "nombre". Los mismos son organizados para feriados y celebraciones (como día del niño, dia de la madre, dia del padre, etc). Los eventos pueden extenderse en varios días y dentro de los mismos pueden llevarse a cabo competencias. 
+Sistema de gestión de eventos organizados desde la comuna "Villa Fucsia". Los mismos son organizados para feriados y celebraciones (como día del niño, dia de la madre, dia del padre, etc). Los eventos pueden extenderse en varios días y dentro de los mismos pueden llevarse a cabo competencias. 
 
 Manejaremos dos tipos de usuarios: Una persona que podrá registrarse para participar de una competencia o postularse como jurado, y persona administrativa que organice y registre los eventos a realizar.
 
