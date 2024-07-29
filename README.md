@@ -9,6 +9,8 @@
 * [frontend app](https://github.com/MatiBerna/frontend-comuna)
 * [backend app](https://github.com/MatiBerna/comuna-backend)
 
+### Deploy
+* [página web](https://comunavillafucsia.vercel.app/home) (El backend cae por inactividad, se vuelve a abrir luego de unos segundos)
 
 ## Tema
 ### Descripción
