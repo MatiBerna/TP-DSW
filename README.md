@@ -3,7 +3,6 @@
 ## Grupo
 ### Integrantes
 * 48777 - Bernardi, Matias
-* 49810 - Gaggiotti, Gabriele
 
 ### Repositorios
 * [frontend app](https://github.com/MatiBerna/frontend-comuna)
